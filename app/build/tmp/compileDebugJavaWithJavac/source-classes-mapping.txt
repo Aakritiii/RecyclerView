@@ -1,0 +1,8 @@
+me/aakriti/recyclerviewCC/BuildConfig.java
+ me.aakriti.recyclerviewCC.BuildConfig
+recyclerviewCC/MainActivity.java
+ me.aakriti.recyclerviewCC.MainActivity
+ me.aakriti.recyclerviewCC.MainActivity$1
+recyclerviewCC/WordListAdapter.java
+ me.aakriti.recyclerviewCC.WordListAdapter
+ me.aakriti.recyclerviewCC.WordListAdapter$WordViewHolder
