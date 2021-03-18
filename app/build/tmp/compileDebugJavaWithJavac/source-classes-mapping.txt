@@ -1,0 +1,9 @@
+recipesrecyclerview/RecipeListAdapter.java
+ me.mahakagg.recipesrecyclerview.RecipeListAdapter
+ me.mahakagg.recipesrecyclerview.RecipeListAdapter$RecipeViewHolder
+me/mahakagg/recipesrecyclerview/BuildConfig.java
+ me.mahakagg.recipesrecyclerview.BuildConfig
+recipesrecyclerview/MainActivity.java
+ me.mahakagg.recipesrecyclerview.MainActivity
+recipesrecyclerview/RecipeMethodActivity.java
+ me.mahakagg.recipesrecyclerview.RecipeMethodActivity
